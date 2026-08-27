@@ -1,0 +1,41 @@
+dataset,energy_TeV,rapidity,method,pt_low,pt_high,value,stat,syst,fit_pvalue,source
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,3,4.5,0.138408751,0.00354234943,0,0.0950242555,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt3.00_4.50.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,4.5,5.5,0.151072166,0.0022663899,0,0.977114241,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt4.50_5.50.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,5.5,6.5,0.171258247,0.00113615169,0,0.00295849111,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt5.50_6.50.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,6.5,7.5,0.190839623,0.00181217438,0,2.57905375e-16,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt6.50_7.50.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,7.5,8.5,0.227570977,0.00229433612,0,0.332518275,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt7.50_8.50.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,8.5,9.5,0.250497514,0.00246684384,0,0.765355333,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt8.50_9.50.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,9.5,11,0.286276858,0.00270019176,0,0.209175703,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt9.50_11.00.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,11,15,0.336913989,0.00404617743,0,0.887542778,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt11.00_15.00.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,15,20,0.416809709,0.00448951089,0,0.970170625,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt15.00_20.00.root
+current_subrange,5.02,1.8<|y|<2.4,mass-subrange signal yields + ctau fit,20,40,0.503555523,0.00894573848,0,0.368433026,/data/hwan/RAA_subrange_fit/pp_jpsi/drawing/b_frac/../../roots/y1.80_2.40/subrange/subrange_result_y1.80_2.40_pt20.00_40.00.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,3,4.5,0.150112852,0.000497003028,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt3.0-4.5_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,4.5,5.5,0.176911205,0.000657150871,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt4.5-5.5_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,5.5,6.5,0.199308246,0.000768796541,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt5.5-6.5_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,6.5,7.5,0.223960444,0.000927311368,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt6.5-7.5_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,7.5,8.5,0.252057284,0.00115245068,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt7.5-8.5_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,8.5,9.5,0.275562346,0.00144044275,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt8.5-9.5_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,9.5,11,0.311751842,0.00155034929,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt9.5-11.0_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,11,15,0.368040591,0.00159518549,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt11.0-15.0_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,15,20,0.453426778,0.00301692262,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt15.0-20.0_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+legacy_2D_fit,5.02,1.8<|y|<2.4,mass-ctau 2D fit,20,40,0.530325234,0.00489439862,0,,/data/hwan/psi2S_RAA_PbPb2018/Macros/pp_Jpsi/roots/2DFit_No_Weight/Final/2DFitResult_pt20.0-40.0_y1.8-2.4_muPt0.0_PRw_Effw0_Accw0_PtW0_TnP0.root
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,0,1.25,0.057,0.021,0.042,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,1.25,2,0.087,0.014,0.022,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,2,2.75,0.113,0.013,0.02,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,2.75,3.5,0.139,0.014,0.01,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,3.5,4.5,0.16,0.014,0.013,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,4.5,6.5,0.177,0.012,0.012,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,6.5,10,0.235,0.016,0.012,,10.17182/hepdata.57532.v1/t7
+BPH-10-002,7,1.6<|y|<2.4,published CMS result,10,30,0.374,0.031,0.008,,10.17182/hepdata.57532.v1/t7
+HIN-16-025,5.02,|y|<2.4,published CMS result,6.5,7.5,0.205,0.002,0.018,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,7.5,8.5,0.228,0.002,0.015,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,8.5,9.5,0.262,0.002,0.018,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,9.5,11,0.295,0.002,0.015,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,11,13,0.343,0.003,0.015,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,13,15,0.391,0.004,0.017,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,15,17.5,0.442,0.005,0.017,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,17.5,20,0.484,0.007,0.02,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,20,25,0.515,0.007,0.019,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,25,30,0.574,0.012,0.027,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,30,35,0.555,0.018,0.039,,10.17182/hepdata.80816.v1/t1
+HIN-16-025,5.02,|y|<2.4,published CMS result,35,50,0.597,0.021,0.034,,10.17182/hepdata.80816.v1/t1

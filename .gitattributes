@@ -1,0 +1,11 @@
+# lxplus(Linux)에서 실행되는 프로젝트이므로 줄바꿈은 LF로 고정
+* text=auto eol=lf
+*.sh text eol=lf
+*.C  text eol=lf
+*.h  text eol=lf
+
+# 혹시 -f 로 강제 추가할 때를 대비한 바이너리 지정
+*.root binary
+*.pdf  binary
+*.so   binary
+*.pcm  binary
