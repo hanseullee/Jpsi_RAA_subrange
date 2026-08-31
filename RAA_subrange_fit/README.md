@@ -95,20 +95,20 @@ PbPb는 pp-matched 기본 bin `1.8 < |y| < 2.4`, centrality `0–90%`를 사용�
 
 ```bash
 cd /data/hwan/RAA_subrange_fit/pb_jpsi
-bash run_pp_jpsi_chain.sh --bin=3.0,4.5,1.8,2.4 --bin-jobs=1
+bash run_pb_jpsi_chain.sh --bin=3.0,4.5,1.8,2.4 --bin-jobs=1
 ```
 
 centrality subrange는 pT-integrated `3–40 GeV/c` bin에 percent 단위로 지정한다.
 
 ```bash
-bash run_pp_jpsi_chain.sh --bin=3.0,40.0,1.8,2.4,0,10 --bin-jobs=1
+bash run_pb_jpsi_chain.sh --bin=3.0,40.0,1.8,2.4,0,10 --bin-jobs=1
 ```
 
 전체 활성 목록은 먼저 dry-run으로 확인한다.
 
 ```bash
-bash run_pp_jpsi_chain.sh --dry-run --parallel-bins --bin-jobs=4
-bash run_pp_jpsi_chain.sh --parallel-bins --bin-jobs=4
+bash run_pb_jpsi_chain.sh --dry-run --parallel-bins --bin-jobs=4
+bash run_pb_jpsi_chain.sh --parallel-bins --bin-jobs=4
 ```
 
 ## 6. mass-slice 재실행
@@ -152,7 +152,7 @@ summary에 실패가 없더라도 개별 bin 로그와 ROOT 파일을 함께 확
 
 ```bash
 bash /data/hwan/RAA_subrange_fit/pp_jpsi/run_pp_jpsi_chain.sh --help
-bash /data/hwan/RAA_subrange_fit/pb_jpsi/run_pp_jpsi_chain.sh --help
+bash /data/hwan/RAA_subrange_fit/pb_jpsi/run_pb_jpsi_chain.sh --help
 ```
 
 ## 8. 작업 기록
