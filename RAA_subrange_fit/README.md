@@ -50,7 +50,7 @@ cd /data/hwan/RAA_subrange_fit/pp_jpsi
 bash run_pp_jpsi_chain.sh --dry-run --only=subrange --bin=3.0,4.5,1.8,2.4
 
 cd /data/hwan/RAA_subrange_fit/pb_jpsi
-bash run_pp_jpsi_chain.sh --dry-run --only=subrange --bin=3.0,4.5,1.8,2.4
+bash run_pb_jpsi_chain.sh --dry-run --only=subrange --bin=3.0,4.5,1.8,2.4
 ```
 
 `--dry-run`은 파일을 만들거나 fit을 실행하지 않는다. 처음에는 대표 bin 하나로 pT, rapidity 및 PbPb centrality가 의도한 값인지 확인한다.
